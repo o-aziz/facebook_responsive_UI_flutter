@@ -1,9 +1,9 @@
 import 'package:facebook_responsive_ui/models/models.dart';
 
 final User currentUser = User(
-  name: 'Marcus Ng',
+  name: 'Oussama Aziz',
   imageUrl:
-      'https://images.unsplash.com/photo-1578133671540-edad0b3d689e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80',
+      'https://images.unsplash.com/photo-1530281700549-e82e7bf110d6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80',
 );
 
 final List<User> onlineUsers = [

@@ -5,3 +5,4 @@ export 'profileAvatar.dart';
 export 'stories.dart';
 export 'postContainer.dart';
 export 'customTabBar.dart';
+export 'responsive.dart';
